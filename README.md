@@ -154,6 +154,6 @@ This project is licensed under the **MIT License**.
 
 ## 🤝 Connect with Me
 
-**[Shalini Verma – LinkedIn](https://www.linkedin.com/in/)**  
-Created with ❤️ during the **IBM SkillsBuild for Academia Internship 2025**
+**[Shalini Verma – LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/shalini-verma-35b0a7261/))**  
+Created with ❤️ during the **IBM SkillsBuild for Academia Internship 2025 by Shalini Verma**
 
