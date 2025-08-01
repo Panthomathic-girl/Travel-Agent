@@ -1,6 +1,6 @@
 # 🌍 Travel Agent AI – Powered by IBM Cloud
 
-![Travel Agent Banner](./travel)
+![Travel Agent Banner](./Travel_agent/IBM_home_image.jpg)
 
 An AI-powered travel assistant that helps users plan trips intelligently and effortlessly using IBM watsonx and Granite foundation models.
 
