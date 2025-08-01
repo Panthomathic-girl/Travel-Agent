@@ -1,6 +1,6 @@
 # 🌍 Travel Agent AI – Powered by IBM Cloud
 
-![Travel Agent Banner](./Travel_agent/IBM_home_image.jpg)
+![Travel Agent Banner](./Travel_agent/intro.png)
 
 An AI-powered travel assistant that helps users plan trips intelligently and effortlessly using IBM watsonx and Granite foundation models.
 
@@ -20,11 +20,11 @@ Travel Agent AI is an intelligent agent that interacts with users, understands t
 
 ## 💻 Technologies Used
 
-- IBM watsonx.ai  
-- Python (for backend if integrated)
-- HTML/CSS (for optional UI)
-- Streamlit (for optional deployment)
-- OpenWeather API / MapBox / Google APIs
+- IBM Watsonx.ai Studio 
+- IBM Granite Foundation Model (LLM)
+- IBM Watsonx.ai Runtime
+- Vector Index for Retrieval-Augmented Generation
+- NLP (Natural Language Processing)
 
 ---
 
@@ -32,9 +32,10 @@ Travel Agent AI is an intelligent agent that interacts with users, understands t
 
 - IBM Watsonx.ai Studio  
 - IBM Granite Foundation Model (granite-3-3-8b-instruct)  
-- IBM Cloud Lite Plan  
+- IBM Cloud Lite Account 
+- IBM Cloud Object Storage
 - Vector Index (for data retrieval if extended)  
-- Web Tool Integrations (Google Search, Weather, etc.)
+- IBM Cloud IAM
 
 ---
 
@@ -65,7 +66,7 @@ Travel Agent AI is an intelligent agent that interacts with users, understands t
 - Recommends accommodations and transport  
 - Provides local attractions and tips  
 - Rejects off-topic queries politely  
-- Deployable on websites using snippet or Streamlit
+- Deployable on websites using snippet or Streamlit or URL
 
 ---
 
@@ -81,8 +82,31 @@ Travel Agent AI is an intelligent agent that interacts with users, understands t
 
 ## 🖼️ Screenshots
 
-![Agent Flow](./assets/agent-flow.png)
-![Preview Panel](./assets/preview-panel.png)
+# Setting up..
+## IBM Cloud Dashboard
+![setup Flow](./Travel_agent/dashboard_IBM_Cloud.jpg)
+
+## IBM Watsonx 
+![setup Flow](./Travel_agent/IBM_WatsonxHomePage.jpg)
+
+## IBM Cloud Object Storage
+![setup Flow](./Travel_agent/CloudObjectStorage.jpg)
+
+## IBM Watsonx.ai Runtime
+![setup Flow](./Travel_agent/watsonxRuntime.jpg)
+
+# Tools used & Testing...
+![setup Flow](./Travel_agent/agenticAI_TravelAgentPage.jpg)
+![setup Flow](./Travel_agent/quickStartQuestion3.jpg)
+
+# Deployment...
+![setup Flow](./Travel_agent/DeploymentCompleted.jpg)
+
+# API References after Deployment...
+![setup Flow](./Travel_agent/endpoints.jpg)
+
+# Resources List...
+
 
 ---
 
